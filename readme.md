@@ -1,8 +1,13 @@
 ![logo](https://i.ibb.co/Vv58qTS/simple-Telegram.png "Simple Telegram")
-[![Latest Stable Version](http://poser.pugx.org/glebsky/simple-telegram/v)](https://packagist.org/packages/glebsky/simple-telegram) [![Total Downloads](http://poser.pugx.org/glebsky/simple-telegram/downloads)](https://packagist.org/packages/glebsky/simple-telegram) [![Latest Unstable Version](http://poser.pugx.org/glebsky/simple-telegram/v/unstable)](https://packagist.org/packages/glebsky/simple-telegram) [![License](http://poser.pugx.org/glebsky/simple-telegram/license)](https://packagist.org/packages/glebsky/simple-telegram)
-![PHP](https://img.shields.io/badge/php-%3E%3D7.0-8892bf.svg)
-[![CodeFactor](https://www.codefactor.io/repository/github/glebsky/simple-telegram/badge)](https://www.codefactor.io/repository/github/glebsky/simple-telegram)
-[![StyleCI](https://github.styleci.io/repos/398185849/shield?branch=master)](https://github.styleci.io/repos/398185849?branch=master)
+<p align="center">
+  <img src="https://badgen.net/packagist/v/glebsky/simple-telegram" alt="Latest Stable Version">
+  <img src="https://badgen.net/packagist/dt/glebsky/simple-telegram" alt="Total Downloads">
+  <img src="https://img.shields.io/badge/php-%3E%3D7.0-8892bf.svg" alt="PHP">
+  <a href="https://github.styleci.io/repos/398185849?branch=master">
+    <img src="https://github.styleci.io/repos/398185849/shield?branch=master" alt="StyleCI">
+  </a>
+</p>
+
 <p align="center">
     ✉️ 📄 🖼️ 🎧 => 🤖 => 😊
 </p>
